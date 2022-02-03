@@ -32,4 +32,4 @@ https://mri.radiology.uiowa.edu/visible_human_datasets.html <br />
 
 ## Screenshot
 ------------------
-![image output for the application](https://github.com/CelineWong72/DICOM_Visualization/blob/f08f5519bb247c6adde74305b4d8f7aea16a5ba7/outputs/ass1_mainapp.PNG)
+<img src="https://github.com/CelineWong72/DICOM_Visualization/blob/f08f5519bb247c6adde74305b4d8f7aea16a5ba7/outputs/ass1_mainapp.PNG" width="500" height="300"> <img src="outputs/app_load.PNG" width="500" height="300">
