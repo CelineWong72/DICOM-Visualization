@@ -20,3 +20,10 @@ To read and visualize various CT Scan data from the provided dataset.
 ------------------
 https://mri.radiology.uiowa.edu/visible_human_datasets.html <br />
 **notes**: download the .tar files and copy all CT scan images into your project directory
+
+
+## Dependencies
+------------------
+- vtk
+- PyQt5 
+- PySide2
