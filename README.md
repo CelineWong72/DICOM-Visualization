@@ -1,4 +1,4 @@
-# DICOM_Visualization
+# DICOM-Visualization
 SW40103 Assignment 1
 
 ## Motivation
